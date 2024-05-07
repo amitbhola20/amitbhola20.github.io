@@ -6,26 +6,13 @@ I am deeply passionate about leveraging Machine/Deep Learning algorithms to addr
 
 ### Work Experience
 Senior Lecturer (Microtek College of Mang. & Tech., Varanasi) July 2016 - Jun 2019
-– Taught core subjects like Operating Systems, DSA, DBMS and programming languages
-including C, C++ and Java to UG and PG students
-– Worked with students to increase their technical skills, conducted mock interviews
-to improve their academic and job prospects
-– Actively involved in Recruitment drives for providing job opportunities to the students
 
 IT Analyst (IBM, Bangalore) Oct 2011 - Feb 2013
-– Develop, maintain, and execute standard operating procedures (SOP) for all identity
-management for client
-– Utilized analytical and technical expertise to provide insights and proposal
-support business process improvements
-– Provide Identity and Access Management eco-system onboarding direction and support
-to development and TCO teams
-– Collaborated with product managers to perform cohort analysis that identified an
-opportunity to reduce pricing by 20% for a segment of users
 
 ### Education
 Ph.D.(Computer Sc. & Eng.), National Institute of Technology Patna, India Present
-Thesis: Farmer’s Assistance System for Crop Recommendation and Disease
+\\Thesis: Farmer’s Assistance System for Crop Recommendation and Disease
 Identification using Deep Learning
-Advisor: Prof. Prabhat Kumar
+\\Advisor: Prof. Prabhat Kumar
 
 
