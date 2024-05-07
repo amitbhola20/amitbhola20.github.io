@@ -10,9 +10,9 @@ Senior Lecturer (Microtek College of Mang. & Tech., Varanasi) July 2016 - Jun 20
 IT Analyst (IBM, Bangalore) Oct 2011 - Feb 2013
 
 ### Education
-Ph.D.(Computer Sc. & Eng.), National Institute of Technology Patna, India Present
-\\Thesis: Farmer’s Assistance System for Crop Recommendation and Disease
-Identification using Deep Learning
+Ph.D.(Computer Sc. & Eng.), National Institute of Technology Patna, India Present <br>
+Thesis: Farmer’s Assistance System for Crop Recommendation and Disease
+Identification using Deep Learning <br>
 \\Advisor: Prof. Prabhat Kumar
 
 
