@@ -26,8 +26,7 @@ Advisor: Prof. Prabhat Kumar
 
 [5] Amit Bhola and Arvind Kumar Tiwari. “Machine learning based approaches for cancer classification using gene expression data”. In: Machine Learning and Applications: An International Journal 2.3/4 (2015), pp. 01–12. <br>
 
-[6] Sanjeev Kumar Yadav, Amit Bhola, and Arvind Kumar Tiwari. “Classification of enzyme functional classes and subclasses using support vector machine”. In: 2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE). IEEE. 2015, pp. 411–
-417. <br>
+[6] Sanjeev Kumar Yadav, Amit Bhola, and Arvind Kumar Tiwari. “Classification of enzyme functional classes and subclasses using support vector machine”. In: 2015 International Conference on Futuristic Trends on Computational Analysis and Knowledge Management (ABLAZE). IEEE. 2015, pp. 411–417. <br>
 
 [7] Amit Bhola, Sanjeev Kumar Yadav, and Arvind Kumar Tiwari. “Machine learning based approach for protein function prediction using sequence derived properties”. In: International journal of computer applications 105.12 (2014)
 
