@@ -15,4 +15,7 @@ Thesis: Farmer’s Assistance System for Crop Recommendation and Disease
 Identification using Deep Learning <br>
 Advisor: Prof. Prabhat Kumar
 
+### Publications
+
+
 
