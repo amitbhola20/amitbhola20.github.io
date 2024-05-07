@@ -13,6 +13,6 @@ IT Analyst (IBM, Bangalore) Oct 2011 - Feb 2013
 Ph.D.(Computer Sc. & Eng.), National Institute of Technology Patna, India Present <br>
 Thesis: Farmer’s Assistance System for Crop Recommendation and Disease
 Identification using Deep Learning <br>
-\\Advisor: Prof. Prabhat Kumar
+Advisor: Prof. Prabhat Kumar
 
 
